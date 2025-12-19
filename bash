@@ -1,1 +1,1 @@
-git clone https://github.com/asmitabasak/your-repo-name.git
+git clone https://github.com/asmitabasak/https://github.com/asmitabasak/campus-boiler-plate-hub
