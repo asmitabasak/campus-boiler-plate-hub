@@ -11,7 +11,7 @@
 ---
 
 ## 🎓 About Me
-I am a student developer passionate about building tools that improve the campus experience. My main project is the **[Campus Boilerplate Hub](# link-to-your-repo)**, a starter kit designed to help students launch their own university-focused apps in minutes.
+I am a student developer passionate about building tools that improve the campus experience. My main project is the **[Campus Boilerplate Hub](#https://github.com/asmitabasak/campus-boiler-plate-hub )**, a starter kit designed to help students launch their own university-focused apps in minutes.
 
 - 🔭 I’m currently working on improving the **Marketplace Module** for the Campus Hub.
 - 🌱 I’m currently learning **System Architecture & Cloud Deployment**.
